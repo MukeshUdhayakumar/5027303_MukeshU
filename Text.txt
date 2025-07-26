@@ -1,3 +1,0 @@
-Simple text
-
-This is to execute pull

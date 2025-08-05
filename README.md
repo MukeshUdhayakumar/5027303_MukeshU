@@ -15,3 +15,7 @@ Linux Executed Commands
 ![Linux cmd3](LINUX/Linux_cmd_3.jpg)
 ![Linux cmd4](LINUX/Linux_cmd_4.jpg)
 ![Linux cmd5](LINUX/Linux_cmd_5.jpg)
+
+Introduction to C Certificate
+
+![Introduction to c](Introduction_to_C.jpg)

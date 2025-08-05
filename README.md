@@ -18,4 +18,4 @@ Linux Executed Commands
 
 Introduction to C Certificate
 
-![Introduction to c](C_COURSE\Introduction_to_C.jpg)
+![Introduction to c](C_COURSE/Introduction_to_C.jpg)

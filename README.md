@@ -11,5 +11,7 @@ Git Training Certificate
 Linux Executed Commands
 
 ![Linux cmd1](LINUX/Linux_cmd_1.jpg)
-
 ![Linux cmd2](LINUX/Linux_cmd_2.jpg)
+![Linux cmd3](LINUX/Linux_cmd_3.jpg)
+![Linux cmd4](LINUX/Linux_cmd_4.jpg)
+![Linux cmd5](LINUX/Linux_cmd_5.jpg)
